@@ -1,0 +1,9 @@
+D:\My Projects\GitHub\OrderApp\OrderApp\bin\Debug\netcoreapp1.1\OrderApp.deps.json
+D:\My Projects\GitHub\OrderApp\OrderApp\bin\Debug\netcoreapp1.1\OrderApp.runtimeconfig.json
+D:\My Projects\GitHub\OrderApp\OrderApp\bin\Debug\netcoreapp1.1\OrderApp.runtimeconfig.dev.json
+D:\My Projects\GitHub\OrderApp\OrderApp\bin\Debug\netcoreapp1.1\OrderApp.dll
+D:\My Projects\GitHub\OrderApp\OrderApp\bin\Debug\netcoreapp1.1\OrderApp.pdb
+D:\My Projects\GitHub\OrderApp\OrderApp\obj\Debug\netcoreapp1.1\OrderApp.AssemblyInfo.cs
+D:\My Projects\GitHub\OrderApp\OrderApp\obj\Debug\netcoreapp1.1\OrderApp.dll
+D:\My Projects\GitHub\OrderApp\OrderApp\obj\Debug\netcoreapp1.1\OrderApp.pdb
+D:\My Projects\GitHub\OrderApp\OrderApp\obj\Debug\netcoreapp1.1\OrderApp.csprojResolveAssemblyReference.cache
